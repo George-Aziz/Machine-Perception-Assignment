@@ -10,4 +10,3 @@
 ## Functionality:
 * This code has been tested in Google Colab
 * Please ensure all the libraries have been installed such as specified in the ipynb file
-* The dataset used to test the codes are also included in this repo
